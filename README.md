@@ -1,3 +1,5 @@
+<img width="469" height="162" alt="ThreadX-Color" src="https://github.com/user-attachments/assets/906e065f-d601-43f6-a33f-e94816fd7b51" />
+
 # Using Eclipse ThreadX at the SDV Hackathon
 Instructions to leverage Eclipse ThreadX and our IoT Evaluation kits in your mad dash to victory!
 
