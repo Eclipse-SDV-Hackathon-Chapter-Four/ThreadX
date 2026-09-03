@@ -1,6 +1,8 @@
 # Using Eclipse ThreadX at the SDV Hackathon
 Instructions to leverage Eclipse ThreadX and our IoT Evaluation kits in your mad dash to victory!
 
+By the way, if you need assistance with ThreadX, feel free to ask Frédéric Desbiens! Frédéric, the project lead for Eclipse ThreadX, is one of the hack coaches and will be onsite for the whole duration of the event.
+
 ## What is Eclipse ThreadX?
 
 [Eclipse ThreadX](https://threadx.io/releases/6.5.1/home/main/index.html) is an open source real-time operating system (RTOS) designed for deeply embedded and MCU-based systems.
